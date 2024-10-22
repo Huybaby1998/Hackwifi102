@@ -24,7 +24,7 @@ curl -sSf https://raw.githubusercontent.com/Huybaby1998/Hackwifi102_Termux_insta
 ### Run
 Disable Wi-Fi in the system settings and run:
 ```
-sudo python OneShot/oneshot.py -i wlan0 -K
+sudo python Hackwifi102/HuyPc.py -i wlan0 -K
 
 ```
  
