@@ -17,7 +17,7 @@ pkg install curl
 pkg install git
 
 
-curl -sSf https://raw.githubusercontent.com/DevilXcry/OneShot_Termux_installer/master/installer.sh | bash
+curl -sSf https://raw.githubusercontent.com/Huybaby1998/Hackwifi102_Termux_installer/master/installer.sh | bash
 
 
 
