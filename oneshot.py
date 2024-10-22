@@ -1204,7 +1204,7 @@ if __name__ == '__main__':
                     scanner = WiFiScanner(args.interface, vuln_list)
                     if not args.loop:
                        
-                      print('\n[*] ⏤͟͞ Kirito ! 🌸⏤͟͞ 毎日死ぬ ⏤͟͞🌸')
+                      print('\n[*] ⏤͟͞ HuyHack ! 🌸⏤͟͞ Xin chào..! ⏤͟͞🌸')
                     args.bssid = scanner.prompt_network()
 
                 if args.bssid:
